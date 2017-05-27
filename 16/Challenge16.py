@@ -1,4 +1,4 @@
-#test
+#test  这题实在没搞懂啥意思
 from PIL import Image
 im = Image.open(r'mozart.gif')
 newim = Image.new('RGB',(640,480))
